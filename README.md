@@ -34,7 +34,7 @@ __What's Next For RedWish__
 3. Writing blog posts about health topics and ways to avoid illness.
 4. Finding a way to make the website commercially viable.
 
-__Tools & Technologies__
+__Tools & Technologies__ <br />
 Bootstrap
 CSS
 DialogFlow
