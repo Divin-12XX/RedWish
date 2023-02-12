@@ -2,8 +2,6 @@
 
 An online platform which connects people to the easiness of blood transfusion.
 
-[Link to Website](https://steadyfall.github.io/RedWish/)
-
 ![pic1](https://user-images.githubusercontent.com/67022574/218287981-7df10feb-6ce7-4312-bafe-6995dfaa1195.jpeg)
 ![pic2](https://user-images.githubusercontent.com/67022574/218287982-1b70efb7-551a-46c2-904d-b519142ad0c0.jpeg)
 ![pic3](https://user-images.githubusercontent.com/67022574/218287983-80a4178f-c5fc-40bf-9081-dd6d6abdf5eb.jpeg)
@@ -46,5 +44,4 @@ JavaScript <br />
 jQuery <br /> 
 
 <br />
-__Link to Website__ <br />
 [Link to Website](https://steadyfall.github.io/RedWish/)
