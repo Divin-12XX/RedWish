@@ -35,10 +35,10 @@ __What's Next For RedWish__
 4. Finding a way to make the website commercially viable.
 
 __Tools & Technologies__ <br /> <br /> 
-Bootstrap
-CSS
-DialogFlow
-Firebase
-HTML
-JavaScript
-jQuery
+Bootstrap <br /> 
+CSS <br /> 
+DialogFlow <br /> 
+Firebase <br /> 
+HTML <br /> 
+JavaScript <br /> 
+jQuery <br /> 
