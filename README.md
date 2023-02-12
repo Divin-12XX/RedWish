@@ -44,4 +44,4 @@ JavaScript <br />
 jQuery <br /> 
 
 <br />
-[Link to Website](https://steadyfall.github.io/RedWish/)
+[Link](https://steadyfall.github.io/RedWish/)
