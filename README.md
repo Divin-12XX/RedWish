@@ -25,7 +25,7 @@ __Accomplishments That We're Proud Of__
 2. Integrated Firebase, a cloud-based platform, to handle backend operations for effective real-time retrieval of data.
 3. Gained valuable insights about the healthcare industry.
 
-__What We Learned__
+__What We Learned__ <br />
 Through this project, we have learned a lot about blood donation and transfusion and about the healthcare sector in general. The project was also an opportunity for us to learn how to make a fully-functional front-end website with a real-time database.
 
 __What's Next For RedWish__
